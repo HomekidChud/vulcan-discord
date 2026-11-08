@@ -1,0 +1,4 @@
+[package]
+name = "discord"
+version = "1.0.0"
+description = "Discord-style chat: TCP server + raw-mode client (channels, DMs, presence, history)"
